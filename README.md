@@ -1,38 +1,39 @@
-# My Favorite Series: [Series Title]
+# My Favorite Series: Breaking Bad
 
 ## About
-**[Series Title]** is a *[genre]* series that first aired in **[year]**.
+**Breaking Bad** is a *crime drama* series that first aired in **2008**. It follows a high school chemistry teacher who turns to a life of crime after a life-changing diagnosis.
 
-> "Add a favorite quote here."
+> "I am the one who knocks."
 
 ---
 
 ## Main Characters
-- **[Character 1]** – short description
-- **[Character 2]** – short description
-- **[Character 3]** – short description
+- **Walter White** – a chemistry teacher who becomes a drug manufacturer
+- **Jesse Pinkman** – Walter's former student and business partner
+- **Saul Goodman** – the flashy criminal lawyer
 
 ## Why I Like It
-1. The storyline
-2. The characters
-3. The soundtrack
+1. The storyline keeps getting more intense
+2. The characters change a lot over time
+3. The acting and writing are excellent
 
 ## Quick Facts
 | Detail | Info |
 |--------|------|
-| Genre | [genre] |
-| Seasons | [number] |
-| Platform | [Netflix / etc.] |
+| Genre | Crime drama |
+| Seasons | 5 |
+| Original Network | AMC |
 
 ## Watchlist Checklist
 - [x] Season 1
-- [ ] Season 2
+- [x] Season 2
+- [ ] Season 3
 
 ### Inline code and code block
-Favorite episode: `S01E01`
+Favorite episode: `S05E14`
 
 ```
 Rating: 10/10
 ```
 
-Read more on [IMDb](https://www.imdb.com/).
+Read more on [IMDb](https://www.imdb.com/title/tt0903747/).
